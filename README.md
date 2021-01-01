@@ -1,2 +1,0 @@
-# simpleSignUp
-simple signup form
